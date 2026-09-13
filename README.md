@@ -1,127 +1,65 @@
-# Hi 👋, I'm Ylhan Fouossue
-
 <div align="center">
 
-🚀 DevOps & Cloud Engineer Intern at Ekino France  
-☁️ Passionate about Cloud Computing, DevOps, Kubernetes and Cybersecurity  
-🔐 Interested in DevSecOps, Infrastructure Automation and Cloud Security  
+# Ylhan Fouossue
+
+### DevOps & Cloud Engineer Intern at Ekino France
+
+Building reliable infrastructure, secure delivery pipelines and cloud-native platforms.
+
+<a href="https://www.linkedin.com/in/ylhanfouossue"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ylhanfouossue@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+## Profile
 
-## 👨‍💻 About Me
+I work at the intersection of **cloud infrastructure, automation and security**. My focus is on designing reproducible environments, improving CI/CD workflows and helping teams ship software with confidence.
 
-- 🚀 DevOps & Cloud Engineer Intern at Ekino France
-- ☁️ Working on CI/CD pipelines, containerization and cloud-native technologies
-- 🔭 Building automation and infrastructure projects
-- 🐳 Passionate about Docker, Kubernetes and Linux
-- 🔐 Interested in DevSecOps and Cloud Security
-- 📚 Currently improving my skills in AWS, Terraform and Kubernetes
-- 🌍 Based in France
+- Based in France
+- Interested in DevSecOps, cloud security and infrastructure automation
+- Currently deepening my knowledge of AWS, Terraform and Kubernetes
 
----
-
-## 🚀 Tech Stack
+## Core Technologies
 
 <div align="center">
 
-### ☁️ Cloud & DevOps
+**Cloud & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,gitlab,github,jenkins,terraform,bash" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux" alt="AWS, Terraform, Docker, Kubernetes, Linux" />
 
-### 💻 Programming
+**CI/CD, Development & Observability**
 
-<img src="https://skillicons.dev/icons?i=python,go,js,react" />
-
-### 🛡️ Security & Monitoring
-
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=gitlab,github,jenkins,bash,python,go,js,react,grafana,prometheus,mysql" alt="GitLab, GitHub, Jenkins, Bash, Python, Go, JavaScript, React, Grafana, Prometheus, MySQL" />
 
 </div>
 
----
+## Selected Work
 
-## 📂 Featured Projects
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| **DevSecOps CI/CD Pipeline** | Automated delivery with integrated security checks | Docker, GitLab CI, Trivy |
+| **ELK Intrusion Detection System** | Centralized logs, detection and alerting | ELK Stack, AI, networking |
+| **Kubernetes Monitoring Stack** | Metrics and operational visibility for clusters | Kubernetes, Prometheus, Grafana |
 
-### 🔹 DevSecOps CI/CD Pipeline
-CI/CD pipeline with:
-- Docker
-- GitLab CI
-- Trivy security scanning
-- Automated deployment
+## Currently Learning
 
----
+`Kubernetes Security` · `Terraform & IaC` · `AWS Architecture` · `GitOps & Argo CD` · `DevSecOps`
 
-### 🔹 ELK Stack Intrusion Detection System
-Secure network architecture with:
-- ELK Stack
-- AI-based intrusion detection
-- Centralized logging
-- Alerting system
-
----
-
-### 🔹 Kubernetes Monitoring Stack
-Monitoring infrastructure using:
-- Prometheus
-- Grafana
-- Kubernetes
-
----
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ylhan237&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ylhan's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylhan237&layout=compact&hide_border=true&theme=transparent" alt="Ylhan's most used languages" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight" />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=ylhan237&hide_border=true&theme=transparent" alt="Ylhan's GitHub streak" />
 
 </div>
-
----
-
-## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ylhan237&theme=tokyonight" />
+> Automate deliberately. Secure continuously. Learn relentlessly.
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ylhanfouossue">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ylhanfouossue@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🧠 Currently Learning
-
-- Kubernetes Security
-- Terraform & Infrastructure as Code
-- AWS Cloud Architecture
-- GitOps & ArgoCD
-- DevSecOps Best Practices
-
----
-
-## ⚡ Fun Fact
-
-> “Automation is good, so long as you know exactly where to put the machine.”

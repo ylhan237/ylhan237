@@ -1,65 +1,95 @@
-<div align="center">
+# Ylhan FOUOSSUE YEMZEUE
 
-# Ylhan Fouossue
+## DevOps / Cloud Engineer | DevSecOps | Cloud Security | Observability
 
-### DevOps & Cloud Engineer Intern at Ekino France
+Cloud Engineer at **Ekino**, based in France, building reproducible AWS infrastructure, containerized applications and secure delivery workflows. My work combines **Terraform, Docker, GitLab CI/CD, cloud security automation and observability** across APIs, serverless systems and ECS Fargate platforms.
 
-Building reliable infrastructure, secure delivery pipelines and cloud-native platforms.
+<p>
+	<a href="https://www.linkedin.com/in/ylhanfouossue"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+	<a href="https://portfolio-ylhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+	<a href="mailto:ylhanfouossue@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+	<a href="https://github.com/ylhan237"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/ylhanfouossue"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ylhanfouossue@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+## Currently building
 
-</div>
+- AWS platforms provisioned with **Terraform**, with a focus on repeatable environments and least-privilege IAM.
+- Containerized services delivered through **Docker, Docker Compose and GitLab CI/CD**.
+- **DevSecOps and CSPM** workflows that bring cloud findings into engineering and vulnerability-management processes.
+- Practical observability with **CloudWatch, Datadog, dashboards, logs, monitors and SLOs**.
+- Open-source contributions around cloud-security tooling, CI images and backend API contracts.
 
-## Profile
+## Technical stack
 
-I work at the intersection of **cloud infrastructure, automation and security**. My focus is on designing reproducible environments, improving CI/CD workflows and helping teams ship software with confidence.
+| Area | Technologies |
+| --- | --- |
+| **Cloud** | AWS, ECS Fargate, VPC, ALB, S3, CloudFront, Lambda, API Gateway, DynamoDB, CloudWatch, IAM, Secrets Manager |
+| **DevOps & IaC** | Terraform, Infrastructure as Code, GitLab CI/CD, GitHub Actions, AWS OIDC/STS, Git, Linux |
+| **Containers** | Docker, Docker Compose, container registries, multi-architecture images |
+| **Programming** | Python, Go, JavaScript, TypeScript, React, FastAPI, REST APIs |
+| **Security** | DevSecOps, Cloud Security, CSPM, Prowler, CloudSploit, DefectDojo, Wazuh, SIEM, Security by Design |
+| **Observability** | Datadog, Grafana, ELK, Kibana, Logstash, CloudWatch Logs, monitoring, logging, alerting |
 
-- Based in France
-- Interested in DevSecOps, cloud security and infrastructure automation
-- Currently deepening my knowledge of AWS, Terraform and Kubernetes
+<p>
+	<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gitlab,github,python,go,typescript,react,grafana" alt="AWS, Terraform, Docker, Kubernetes, GitLab, GitHub, Python, Go, TypeScript, React and Grafana" />
+</p>
 
-## Core Technologies
+## Professional experience
 
-<div align="center">
+### Cloud Engineer Intern · Ekino · France
 
-**Cloud & Infrastructure**
+- Develop backend APIs with **Python and Go**, alongside React frontend components.
+- Containerize services with Docker and Docker Compose, and build delivery workflows with GitLab CI/CD.
+- Provision and evolve AWS infrastructure with Terraform, including **ECS Fargate, ALB, networking and observability**.
+- Instrument workloads with Datadog and work with logs, dashboards, monitors and operational signals.
+- Automate cloud-security scans and contribute to CSPM workflows, including DefectDojo integration and the evolution of security tooling.
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux" alt="AWS, Terraform, Docker, Kubernetes, Linux" />
+## Featured projects
 
-**CI/CD, Development & Observability**
+### [IncidentOps](https://github.com/ylhan237/incidentops)
 
-<img src="https://skillicons.dev/icons?i=gitlab,github,jenkins,bash,python,go,js,react,grafana,prometheus,mysql" alt="GitLab, GitHub, Jenkins, Bash, Python, Go, JavaScript, React, Grafana, Prometheus, MySQL" />
+An AWS serverless incident-management application designed around a secure, observable delivery path.
 
-</div>
+- **Problem:** provide a small but complete operational workflow for creating, filtering and tracking incidents.
+- **Implementation:** private S3 + CloudFront frontend, API Gateway, Python Lambda, DynamoDB, IAM and Terraform.
+- **Delivery and operations:** GitLab CI/CD with OIDC and temporary AWS credentials, Terraform plan/apply flow, CloudWatch logs and alarms, Pytest coverage.
+- **Stack:** AWS, Terraform, Python, GitLab CI/CD, OIDC, IAM, CloudWatch.
 
-## Selected Work
+### [Kata DevOps - application](https://github.com/ylhan237/kata-devops-app) · [infrastructure](https://github.com/ylhan237/kata-devops-infra)
 
-| Project | Focus | Technologies |
-| --- | --- | --- |
-| **DevSecOps CI/CD Pipeline** | Automated delivery with integrated security checks | Docker, GitLab CI, Trivy |
-| **ELK Intrusion Detection System** | Centralized logs, detection and alerting | ELK Stack, AI, networking |
-| **Kubernetes Monitoring Stack** | Metrics and operational visibility for clusters | Kubernetes, Prometheus, Grafana |
+A multi-service platform showing the path from application code to containerized AWS workloads.
 
-## Currently Learning
+- **Application:** Go and FastAPI services plus a React frontend, packaged with Docker and Docker Compose.
+- **Delivery:** GitLab CI/CD builds images, runs tests, performs Trivy container scans and publishes to a registry.
+- **Infrastructure:** Terraform provisions a VPC, public/private subnets, NAT gateways, ALB, ECS Fargate and Secrets Manager.
+- **Observability:** CloudWatch logs, Datadog sidecar and forwarding, dashboards, monitors and an API SLO.
 
-`Kubernetes Security` · `Terraform & IaC` · `AWS Architecture` · `GitOps & Argo CD` · `DevSecOps`
+### [Secure Radio Project](https://github.com/ylhan237/secure-reconnaissance-system)
 
-## GitHub Activity
+A Python security project for transporting latent data over MQTT with authenticated encryption and replay protection.
 
-<div align="center">
+- Uses AES-GCM, authenticated associated data, nonce/counter handling and anti-replay validation.
+- Includes TLS/mTLS configuration guidance and Pytest cases for tampering, altered headers and replay attempts.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ylhan237&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ylhan's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylhan237&layout=compact&hide_border=true&theme=transparent" alt="Ylhan's most used languages" />
+## Open source contributions
 
-<br />
+- **[Ekino/docker-buildbox#2023](https://github.com/ekino/docker-buildbox/pull/2023) - merged:** added a Prowler image with AWS CLI v2, pinned dependency management, Dependabot configuration and `linux/amd64` and `linux/arm64` build support. The change passed the project checks and was merged into `master`.
+- **[apowerb/apowerb#131](https://github.com/apowerb/apowerb/pull/131) - open:** normalized the `th2etl` pipeline-run response contract and added tests so Mage and th2etl expose the same response shape. The change includes 27 relevant tests passing.
 
-<img src="https://streak-stats.demolab.com?user=ylhan237&hide_border=true&theme=transparent" alt="Ylhan's GitHub streak" />
+## Certifications and learning
 
-</div>
+- HashiCorp Terraform Associate
+- ISC2 Certified in Cybersecurity (CC)
+- Cisco CCNA
+- AWS certification and architecture learning path
+- Continuing focus: Kubernetes, GitOps, cloud security and production operations
 
-<div align="center">
+## GitHub activity
 
-> Automate deliberately. Secure continuously. Learn relentlessly.
+Recent work is concentrated in the repositories above, with additional activity in the public [profile](https://github.com/ylhan237), including the [portfolio](https://github.com/ylhan237/Portfolio-ylhan), DevOps infrastructure work and ongoing open-source pull requests.
 
-</div>
+## Let's connect
+
+I am open to opportunities in **DevOps, Cloud Engineering, DevSecOps and Cloud Security**.
+
+[LinkedIn](https://www.linkedin.com/in/ylhanfouossue) · [Portfolio](https://portfolio-ylhan.vercel.app) · [GitHub](https://github.com/ylhan237) · [Email](mailto:ylhanfouossue@gmail.com)

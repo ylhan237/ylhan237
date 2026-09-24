@@ -38,13 +38,11 @@ Je construis des plateformes AWS reproductibles, sécurisées et observables.
 - [ekino/docker-buildbox#2023](https://github.com/ekino/docker-buildbox/pull/2023) · Image Prowler multi-architecture et configuration Dependabot · **fusionné**
 - [apowerb/apowerb#139](https://github.com/apowerb/apowerb/pull/139) · Support Azure AI Foundry, routage des modèles et tests de régression · **fusionné**
 
-## 🐍 Mon activité GitHub
+## 🐍 My GitHub Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg" />
-  <img alt="Serpent parcourant le graphe de contributions GitHub" src="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 ## 🎓 Certifications
 

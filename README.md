@@ -184,22 +184,28 @@ I also contribute to open-source projects and work on real issues.
 ## 🐍 My GitHub Contributions
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,gitlab,python,go,linux,prometheus,grafana&perline=6" alt="AWS, Terraform, Ansible, Docker, Kubernetes, GitHub Actions, GitLab, Python, Go, Linux, Prometheus et Grafana" />
+</div>
+
+## 🚀 Projets sélectionnés
+
+| Projet | Ce que j'y construis |
+| --- | --- |
+| [IncidentOps](https://github.com/ylhan237/incidentops) | Application serverless AWS avec Terraform, Lambda, DynamoDB et CloudWatch. |
+| [AWS Terraform Ansible Nginx](https://github.com/ylhan237/aws-terraform-ansible-nginx) | Infrastructure AWS automatisée et déploiement Nginx avec Ansible et GitHub Actions. |
+| [Secure Radio Project](https://github.com/ylhan237/secure-reconnaissance-system) | Transport sécurisé de données sur MQTT avec Python. |
+
+## 🤝 Open source
+
+- [ekino/docker-buildbox#2023](https://github.com/ekino/docker-buildbox/pull/2023) · Image Prowler multi-architecture et configuration Dependabot · **fusionné**
+- [apowerb/apowerb#139](https://github.com/apowerb/apowerb/pull/139) · Support Azure AI Foundry, routage des modèles et tests de régression · **fusionné**
+
+## 🐍 Mon activité GitHub
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpent parcourant le graphe de contributions GitHub" src="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>

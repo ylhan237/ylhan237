@@ -2,95 +2,119 @@
 
 # Hi, I'm Ylhan FOUOSSUE YEMZEUE 👋
 
-### DevOps · Cloud · DevSecOps ☁️
+### DevOps · Cloud · DevSecOps
 
-Passionate about Cloud infrastructure, automation, cybersecurity and everything
-that makes software delivery faster, safer and more reliable.
+Passionate about Cloud infrastructure, automation, cybersecurity
+and building reliable and observable platforms.
+
+<a href="https://www.linkedin.com/in/ylhanfouossue">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://portfolio-ylhan.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="mailto:ylhanfouossue@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ❤️ About Me
 
-I'm a Cloud & DevOps engineering student passionate about building,
-automating and securing modern infrastructures.
+I'm a final-year engineering student specializing in
+**Cloud, DevOps and Cybersecurity**.
 
-I enjoy working on real-world projects around:
+I enjoy designing, automating and securing modern infrastructures,
+especially around AWS and Infrastructure as Code.
 
-- ☁️ Cloud infrastructure with AWS
-- ⚙️ Infrastructure as Code with Terraform
-- 🔄 CI/CD and automation
-- 🔐 DevSecOps and Cloud Security
-- 📦 Containers and Kubernetes
-- 📊 Monitoring and observability
-- 🐍 Python and 🐹 Go for automation and backend development
-
-My goal is to grow into a **DevOps / Cloud Engineer specialized in
-DevSecOps and cloud security**.
+I learn by building real projects, working with open-source tools,
+preparing certifications and contributing to existing projects.
 
 ---
 
-## 💼 Experience
+## 🚀 Experience
 
-### ☁️ Cloud Engineering
+### ☁️ Cloud & DevOps
 
-Working on cloud-oriented projects involving:
+Working on projects involving:
 
 - AWS infrastructure
-- Terraform deployments
-- Docker & Docker Compose
+- Terraform
+- Ansible
+- Docker
+- Kubernetes
+- GitHub Actions
 - GitLab CI/CD
-- API development
-- Cloud security and CSPM
-- Monitoring and observability
+- CloudWatch
+- Datadog
 
-I also worked on cloud security automation and CSPM tooling,
-including **Prowler, CloudSploit and DefectDojo**.
+### 🔐 Cloud Security & DevSecOps
+
+I also work on cloud security and security automation around:
+
+- Prowler
+- CloudSploit
+- DefectDojo
+- Wazuh
+- ELK
+- CSPM
+- Security automation
+
+### 💻 Development
+
+I build automation tools, APIs and backend services using:
+
+- Python
+- Go
+- Java
+- Node.js
 
 ---
 
 ## 🎯 My Goal
 
-I want to build cloud platforms that are:
+My goal is to become a **DevOps / Cloud Engineer specialized in
+DevSecOps and Cloud Security**.
+
+I want to build platforms that are:
 
 **Automated · Secure · Scalable · Observable · Reproducible**
 
-I'm constantly learning and improving my skills through
-personal projects, certifications, open-source contributions
-and hands-on labs.
-
 ---
 
-## ⚡ My Dev Tools
+## 🛠️ My Dev Tools
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux" alt="Cloud and Infrastructure tools">
 </p>
 
-### 🔄 DevOps & Automation
+### CI/CD & Automation
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,git,bash" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,git,bash" alt="CI/CD and Automation tools">
 </p>
 
-### 💻 Development
+### Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,go,java,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,java,nodejs" alt="Development tools">
 </p>
 
-### 📊 Monitoring & Security
+### Monitoring & Security
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring tools">
 </p>
 
-**Also working with:**  
-Prowler · CloudSploit · DefectDojo · Wazuh · ELK · CloudWatch · Datadog ·
-Nmap · Wireshark · GitHub Actions · GitLab CI
+<p align="center">
+  Prowler · CloudSploit · DefectDojo · Wazuh · ELK · CloudWatch · Datadog
+</p>
 
 ---
 
@@ -100,139 +124,119 @@ Nmap · Wireshark · GitHub Actions · GitLab CI
 
 Serverless AWS application built with:
 
-**Terraform · Lambda · DynamoDB · S3 · API Gateway · CloudWatch**
+**Terraform · Lambda · DynamoDB · API Gateway · S3 · CloudWatch**
 
-👉 [View the project](https://github.com/ylhan237/incidentops)
+<a href="https://github.com/ylhan237/incidentops">
+View project →
+</a>
 
 ---
 
 ### ☁️ AWS Terraform Ansible Nginx
 
-Infrastructure automation project combining:
+Infrastructure automation project using:
 
 **AWS · Terraform · Ansible · Nginx · GitHub Actions**
 
-Terraform provisions the infrastructure while Ansible automates
-the configuration and deployment of Nginx.
+Terraform provisions the infrastructure and Ansible automates
+server configuration and Nginx deployment.
 
-👉 [View the project](https://github.com/ylhan237/aws-terraform-ansible-nginx)
+<a href="https://github.com/ylhan237/aws-terraform-ansible-nginx">
+View project →
+</a>
 
 ---
 
 ### 📡 Secure Radio Project
 
-A secure communication project based on:
+Secure communication project based on:
 
 **Python · MQTT · Network Security**
 
-👉 [View the project](https://github.com/ylhan237/secure-reconnaissance-system)
+<a href="https://github.com/ylhan237/secure-reconnaissance-system">
+View project →
+</a>
 
 ---
 
 ## 🤝 Open Source
 
-I also contribute to open-source projects and work on real issues.
-
 ### ekino/docker-buildbox
 
-🛠️ Image Prowler multi-architecture and Dependabot configuration
+Prowler multi-architecture image and Dependabot configuration.
 
-✅ Pull Request #2023 — **Merged**
+✅ **Pull Request #2023 — Merged**
 
-👉 [View contribution](https://github.com/ekino/docker-buildbox/pull/2023)
-
----
+<a href="https://github.com/ekino/docker-buildbox/pull/2023">
+View contribution →
+</a>
 
 ### apowerb/apowerb
 
-🛠️ Azure AI Foundry support, model routing and regression tests
+Azure AI Foundry support, model routing and regression tests.
 
-✅ Pull Request #139 — **Merged**
+✅ **Pull Request #139 — Merged**
 
-👉 [View contribution](https://github.com/apowerb/apowerb/pull/139)
-
----
-
-## 📚 Certifications
-
-🏆 **HashiCorp Terraform Associate**
-
-🔐 **ISC2 Certified in Cybersecurity (CC)**
-
-🌐 **Cisco CCNA**
+<a href="https://github.com/apowerb/apowerb/pull/139">
+View contribution →
+</a>
 
 ---
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Stats
 
 <div align="center">
 
 <img
+  width="49%"
   src="https://github-readme-stats.vercel.app/api?username=ylhan237&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
-  height="170"
+  alt="GitHub statistics"
 />
 
 <img
+  width="49%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylhan237&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-  height="170"
+  alt="Top programming languages"
 />
 
 </div>
 
 ---
 
-## 🐍 My GitHub Contributions
+## 🐍 My GitHub Snake
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,gitlab,python,go,linux,prometheus,grafana&perline=6" alt="AWS, Terraform, Ansible, Docker, Kubernetes, GitHub Actions, GitLab, Python, Go, Linux, Prometheus et Grafana" />
-</div>
 
-## 🚀 Projets sélectionnés
-
-| Projet | Ce que j'y construis |
-| --- | --- |
-| [IncidentOps](https://github.com/ylhan237/incidentops) | Application serverless AWS avec Terraform, Lambda, DynamoDB et CloudWatch. |
-| [AWS Terraform Ansible Nginx](https://github.com/ylhan237/aws-terraform-ansible-nginx) | Infrastructure AWS automatisée et déploiement Nginx avec Ansible et GitHub Actions. |
-| [Secure Radio Project](https://github.com/ylhan237/secure-reconnaissance-system) | Transport sécurisé de données sur MQTT avec Python. |
-
-## 🤝 Open source
-
-- [ekino/docker-buildbox#2023](https://github.com/ekino/docker-buildbox/pull/2023) · Image Prowler multi-architecture et configuration Dependabot · **fusionné**
-- [apowerb/apowerb#139](https://github.com/apowerb/apowerb/pull/139) · Support Azure AI Foundry, routage des modèles et tests de régression · **fusionné**
-
-## 🐍 Mon activité GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg" />
-  <img alt="Serpent parcourant le graphe de contributions GitHub" src="https://raw.githubusercontent.com/ylhan237/ylhan237/output/github-contribution-grid-snake.svg" />
-</picture>
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/ylhan237/ylhan237/main/assets/snake.svg"
+  alt="Animated GitHub snake"
+/>
 
 </div>
 
 ---
 
-## 🔭 Currently
+## 🎓 Certifications
+
+`HashiCorp Terraform Associate`
+
+`ISC2 Certified in Cybersecurity (CC)`
+
+`Cisco CCNA`
+
+---
+
+## 🔭 Current Activity
 
 I'm currently focusing on:
 
-- 🚀 Improving my DevOps & Cloud skills
+- 🚀 Improving my DevOps and Cloud engineering skills
 - ☸️ Deepening my Kubernetes knowledge
-- 🔐 Strengthening my DevSecOps skills
+- 🔐 Developing my DevSecOps expertise
 - ☁️ Preparing advanced AWS certifications
-- 🤝 Contributing more to open source
-- 🧪 Building production-like cloud projects
-
----
-
-## 🌱 Always Learning
-
-I believe that in Cloud & DevOps:
-
-> **You never stop learning, building and automating.**
-
-So I'm constantly experimenting with new technologies,
-building projects and improving my engineering practices.
+- 🤝 Contributing to open-source projects
+- 🧪 Building production-like cloud infrastructures
 
 ---
 
@@ -241,15 +245,15 @@ building projects and improving my engineering practices.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ylhanfouossue">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://portfolio-ylhan.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="mailto:ylhanfouossue@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
